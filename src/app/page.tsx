@@ -1,6 +1,6 @@
 import { Hero } from "@/components/hero";
 import { Submenu } from "../components/home/submenu";
-import { getDataHome, getSubMenu } from '@/utils/actions/get-data'
+import { getDataHome, getSubMenu } from '@/utils/actions/get-data';
 import { HomeProps } from "@/utils/actions/home.type";
 import { Phone } from 'lucide-react';
 import { Services } from "@/components/home/services";
