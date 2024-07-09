@@ -1,4 +1,4 @@
-# Site de _`DevMotors`_ idealizado pelo professor _`Matheus Fraga`_
+# Site de _`DevMotors`_
 **Esse projeto `Topzeria` onde eu aprendi a listar as requisições Api, fiz ' `configurações de variáveis ambientes`' usei hooks do `ReactJS`, `NextJS` e fiz `deploy no vercel!`** <br>
 ##
 **_`Meu site`_:**</div>
